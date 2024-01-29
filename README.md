@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm Ani, a third year student at OSU studying Finance and Information Systems. I'm also an RA at Drackett Towers. 
+
+I'm currently learning financial modeling and python. 
+I'm looking for jobs in the financial sector that involves a mix of finance and coding.
+
 <!--
 **Anisai1/Anisai1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
